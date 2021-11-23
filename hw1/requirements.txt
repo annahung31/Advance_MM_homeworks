@@ -1,0 +1,16 @@
+tensorboard
+easydict
+sklearn
+matplotlib
+pandas
+scikit-image==0.15.0
+menpo
+prettytable
+imutils
+pickle5
+tqdm
+seaborn
+ipdb
+facenet
+tensorflow==1.15
+mxnet==1.6.0
